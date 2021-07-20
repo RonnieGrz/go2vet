@@ -10,7 +10,7 @@
     "@mapbox/polyline": "^0.2.0",
     "lodash": "^4.17.5",
     "react": "16.2.0",
-    "react-native": "^0.60.5",
+    "react-native": "^0.62.3",
     "react-native-communications": "^2.2.1",
     "react-native-fbsdk": "^0.7.0",
     "react-native-google-places": "^2.4.2",
